@@ -1,11 +1,11 @@
 ---
-title: "Introduction"
+title: "CWL Basics Recap"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "CWL refresher"
 objectives:
-- "First learning objective. (FIXME)"
+- "Ensure that the student grasps the CWL basics taught in the introductionary tutorial."
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
