@@ -1,26 +1,22 @@
 ---
-title: "Solving more complex problems with scripts and toolkits"
+title: "Solving Complex Problems with Scripts"
 teaching: 0
 exercises: 0
 questions:
 - "How to include and run a script in a step at runtime?"
 - "Which requirements need to be specified?"
 - "How to capture output of a script?"
-- "How to find other tools/solutions for awkward problems?"
 objectives:
 - "script objectives:"
 - "Include and run a script in a step at runtime"
 - "Capture output of a script"
-- "tools objectives:"
-- "know good resources for finding solutions to common problems"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
 By the end of this episode,
 learners should be able to
-__include and run their own script in a step at runtime__
-and __be aware of where they can look for CWL recipes and more help for common, but awkward, tasks__.
+__include and run their own script in a step at runtime__.
 
 > ## Exercise 1:
 >
